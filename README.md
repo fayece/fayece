@@ -5,7 +5,9 @@ Focused on secure software and data integrity.
 
 ## Stack
 **Languages**: Java, Kotlin, C#, Python, TypeScript
+
 **Databases**: PostgreSQL, SQLite
+
 **Tools**: GitHub Actions, Docker, Linux
 
 ## What I'm interested in
