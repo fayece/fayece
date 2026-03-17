@@ -46,7 +46,7 @@ Focused on secure software and data integrity.
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
   
-**INFDTS01 Hardwerkende Nederlanders**: School project building an intranet CMS with a forum.  
+**Spotlight**: School project building an intranet CMS with a forum.  
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)](#)
